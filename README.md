@@ -1,12 +1,12 @@
-# the outputs are as follows
+# The outputs are as follows
 
 ### register
 ![preview img](/register.png)
 
-<h1 align="center">Output</h1>
-
 ### Access token
 ![preview img](/AccessToken.png)
+
+<h1 align="center">Outputs</h1>
 
 ### prime
 ![preview img](/Prime.png)

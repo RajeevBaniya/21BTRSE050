@@ -1,5 +1,12 @@
 # the outputs are as follows
 
+### register
+![preview img](/register.png)
+
+<h1 align="center">Output</h1>
+
+### Access token
+![preview img](/AccessToken.png)
 
 ### prime
 ![preview img](/Prime.png)
